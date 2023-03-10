@@ -1,6 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=%F0%9F%98%80+Hi%2C+welcome+to+my+aGit+;%F0%9F%A4%94+%EA%B3%A0%EC%96%91%EC%9D%B4%EB%A5%BC+%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94+%EB%8F%99%EB%AC%BC%EC%9D%80+%3F;%E2%9E%A1%EF%B8%8F+%EB%AF%B8%EC%96%B4%EC%BA%A3;%F0%9F%A4%94+%EC%B9%BC%EC%9D%B4+%EC%A0%95%EC%83%89%ED%95%98%EB%A9%B4+%3F;%E2%9E%A1%EF%B8%8F+%EA%B2%80%EC%A0%95%EC%83%89)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **hossang/hossang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
