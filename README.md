@@ -23,7 +23,7 @@
 <br/>
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=icloud&logoColor=white)
