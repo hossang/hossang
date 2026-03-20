@@ -8,8 +8,6 @@
 
 </div>
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-6DB33F.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,6 +33,9 @@
 ![Intellij](https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
 
+<br/>
+
+[![dlghckd](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=dlghckd&theme=white&size=small&sub_color=00f0a0&compact=1&use_back_color=1&use_border=0&use_shadow=1)](https://solved.ac/profile/dlghckd)
 
 </div>
 
