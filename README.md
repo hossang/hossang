@@ -28,6 +28,10 @@
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
