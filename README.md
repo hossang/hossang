@@ -6,7 +6,7 @@
 
 #### 🔭 I'm currently working on **Java Backend Development**<br/>
 #### 🌱 I'm currently learning **I/O Multiplexing & Database Internals**<br/>
-#### 👯 I'm looking to collaborate on **I/O Multiplexing open source**<br/>
+#### 👯 I'm looking to collaborate on **Network Framework open source**<br/>
 #### 📫 **zkzn104@naver.com**
 
 </div>
