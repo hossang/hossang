@@ -4,13 +4,7 @@
 
 <br/><br/>
 
-> 🌿 **Spring 생태계를 깊이 탐구하는 백엔드 개발자입니다.**
-> 탄탄한 서버 로직과 효율적인 데이터 설계를 추구하며,
-> 알고리즘 풀이를 통해 매일 사고력을 키워나가고 있어요. 🔥
-
-<br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hossang.hossang&left_color=gray&right_color=6DB33F)
+자기소개 문구 
 
 </div>
 
@@ -23,6 +17,8 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+<br/><br/>
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 </div>
