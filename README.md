@@ -27,22 +27,16 @@
 <br/>
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=icloud&logoColor=white)
 
 <br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Intellij](https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
 
-
-</div>
-
----
-
-## 🏆 Solved.ac
-
-<div align="center">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghckd)](https://solved.ac/dlghckd)
 
 </div>
 
