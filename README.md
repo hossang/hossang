@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -40,7 +38,6 @@
 
 </div>
 
----
 
 <div align="center">
 
