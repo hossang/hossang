@@ -31,22 +31,8 @@
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hossang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DB33F" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=hossang&theme=tokyonight&hide_border=true&background=0D1117&ring=6DB33F&fire=ff6b6b&currStreakLabel=6DB33F" />
 
 </div>
 
@@ -57,20 +43,6 @@
 <div align="center">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlghckd)](https://solved.ac/dlghckd)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hossang/hossang/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hossang/hossang/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/hossang/hossang/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
