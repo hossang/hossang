@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=200&section=header&text=hossang&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend+Developer+🚀&descAlignY=58&descAlign=50" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=☕+Java+%26+Spring+Backend+Developer;🌱+꾸준히+성장하는+개발자;🧩+알고리즘으로+단련하는+문제해결사;💚+클린+코드를+사랑합니다" alt="Typing SVG" />
-
 <br/><br/>
 
 > 🌿 **Spring 생태계를 깊이 탐구하는 백엔드 개발자입니다.**
