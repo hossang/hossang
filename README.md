@@ -36,7 +36,7 @@
 
 <br/>
 
-[![dlghckd](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=dlghckd&theme=white&size=small&sub_color=00f0a0&compact=1&use_back_color=1&use_border=0&use_shadow=1)](https://solved.ac/profile/dlghckd)
+[![dlghckd](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=dlghckd&theme=white&size=small&back_color=000000&common_color=ffffff&sub_color=00f0a0&compact=1&use_back_color=1&use_border=1&use_shadow=1)](https://solved.ac/profile/dlghckd)
 
 </div>
 
