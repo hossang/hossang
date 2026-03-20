@@ -4,7 +4,10 @@
 
 <br/><br/>
 
-자기소개 문구 
+- 🔭 I'm currently working on **Java Backend Development**
+- 🌱 I'm currently learning **I/O Multiplexing & Database Internals**
+- 👯 I'm looking to collaborate on **I/O Multiplexing open source**
+- 📫 How to reach me: **zkzn104@naver.com**
 
 </div>
 
